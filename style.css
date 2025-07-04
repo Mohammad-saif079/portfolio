@@ -278,6 +278,10 @@ nav a:hover {
     height: 250px;
     background-color: transparent;
     border: 1px solid #ABB2BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 #works {
