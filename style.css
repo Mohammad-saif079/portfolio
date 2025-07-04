@@ -588,12 +588,3 @@ footer{
 
 
 
-
-@media (max-width:1240px) {
-    .wrapper{
-        width: 90vw;
-    }
-    .wrapper2,.wrapper4,.wrapper5,.wrapper6,.wrapper7,.wrapper8{
-        width: 80vw;
-    }
-}
